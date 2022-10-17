@@ -1,9 +1,8 @@
 {
-  "name": "SolanaArtProject #1",
-  "description": "Generative art on Solana.",
-  "image": "https://arweave.net/26YdhY_eAzv26YdhY1uu9uiA3nmDZYwP8MwZAultcE?ext=jpeg",
-  "animation_url": "https://arweave.net/ZAultcE_eAzv26YdhY1uu9uiA3nmDZYwP8MwuiA3nm?ext=glb",
-  "external_url": "https://example.com",
+  "name": "Test MetaNFT",
+  "description": "MetaNFT Test",
+  "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "external_url": "https://github.com/djaciel",
   "attributes": [
     {
       "trait_type": "trait1",
@@ -12,24 +11,19 @@
     {
       "trait_type": "trait2",
       "value": "value2"
+    },
+    {
+      "trait_type": "trait3",
+      "value": "value3"
+    },
+    {
+      "trait_type": "trait4",
+      "value": "value4"
     }
   ],
   "properties": {
-    "files": [
-      {
-        "uri": "https://www.arweave.net/abcd5678?ext=png",
-        "type": "image/png"
-      },
-      {
-        "uri": "https://watch.videodelivery.net/9876jkl",
-        "type": "unknown",
-        "cdn": true
-      },
-      {
-        "uri": "https://www.arweave.net/efgh1234?ext=mp4",
-        "type": "video/mp4"
-      }
-    ],
-    "category": "video"
+    "files": [{ "uri": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "EB4wxDiWh8c8fyNwbDSX1h3SVn8Gz5g2DJca5sk7wB58", "share": 100 }]
   }
 }
