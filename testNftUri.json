@@ -1,10 +1,14 @@
 {
-    "name": "MetaNFT TEST",
-    "symbol": "MNFT",
-    "description": "A test for our NFT example.",
-    "seller_fee_basis_points": 5,
-    "external_url": "",
-    "edition": "",
-    "background_color": "000000",
-    "image": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+  "name": "MetaNFT TEST",
+  "symbol": "MNFT",
+  "description": "A test for our NFT example.",
+  "seller_fee_basis_points": 5,
+  "external_url": "",
+  "image": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Brown" },
+    { "trait_type": "size", "value": "Small" },
+    { "trait_type": "edition", "value": "Normal" },
+    { "trait_type": "speed", "value": "Fast" }
+  ]
 }
