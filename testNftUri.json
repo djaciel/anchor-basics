@@ -11,10 +11,4 @@
     { "trait_type": "specialty", "value": "Nothing" },
     { "trait_type": "clothes", "value": "Black" },
   ],
-  "collection": { "name": "MetaNFT", "family": "Test" },
-  "properties": {
-    "files": [{ "uri": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png", "type": "image/png" }],
-    "category": "image",
-    "creators": [{ "address": "EB4wxDiWh8c8fyNwbDSX1h3SVn8Gz5g2DJca5sk7wB58", "share": 100 }]
-  }
 }
