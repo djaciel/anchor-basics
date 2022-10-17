@@ -1,14 +1,20 @@
 {
-  "name": "MetaNFT TEST",
+  "name": "Test MetaNFT",
   "symbol": "MNFT",
-  "description": "A test for our NFT example.",
+  "description": "MetaNFT Test",
   "seller_fee_basis_points": 5,
-  "external_url": "",
-  "image": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png",
+  "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+  "external_url": "https://github.com/djaciel",
   "attributes": [
-    { "trait_type": "color", "value": "Brown" },
-    { "trait_type": "size", "value": "Small" },
-    { "trait_type": "edition", "value": "Normal" },
-    { "trait_type": "speed", "value": "Fast" }
-  ]
+    { "trait_type": "background", "value": "Brown" },
+    { "trait_type": "skin", "value": "Solar" },
+    { "trait_type": "specialty", "value": "Nothing" },
+    { "trait_type": "clothes", "value": "Black" },
+  ],
+  "collection": { "name": "MetaNFT", "family": "Test" },
+  "properties": {
+    "files": [{ "uri": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [{ "address": "EB4wxDiWh8c8fyNwbDSX1h3SVn8Gz5g2DJca5sk7wB58", "share": 100 }]
+  }
 }
