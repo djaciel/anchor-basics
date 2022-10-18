@@ -15,10 +15,6 @@
     {
       "trait_type": "trait3",
       "value": "value3"
-    },
-    {
-      "trait_type": "trait4",
-      "value": "value4"
     }
   ],
   "properties": {
